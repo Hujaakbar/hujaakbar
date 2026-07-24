@@ -22,8 +22,8 @@ I believe Certificates do not represent true knowledge or skills. However, they 
 Therefore I have gotten some.
 
 1. AWS Certified Cloud Practitioner
-1. Microsoft Azure Fundamentals Certificate
-1. Dataiku Core Designer Certificate
+1. Microsoft Azure Fundamentals
+1. Dataiku Core Designer
 1. GitHub Foundations
 1. GitHub Advanced Security
 1. GitHub Administration
