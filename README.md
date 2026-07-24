@@ -68,3 +68,10 @@ I am always learning something new. This list may not represent everything.
 ## GitHub
 
 Currently working on open-sourcing some projects — check back soon.
+
+### Contact 
+
+Open to interesting engineering roles — feel free to reach out.
+
+[Send me an email](mailto:aching-sway-bulb@duck.com) 📫
+
