@@ -23,7 +23,7 @@ Therefore I have gotten some.
 
 1. AWS Certified Cloud Practitioner
 1. Microsoft Azure Fundamentals Certificate
-1.​ Dataiku Core Designer Certificate
+1. Dataiku Core Designer Certificate
 1. GitHub Foundations
 1. GitHub Advanced Security
 1. GitHub Administration
@@ -32,7 +32,7 @@ Therefore I have gotten some.
 
 ## Work Experience
 
-- 2021 ~ 2023 : Systems engineer at medium-sized Iron Manufacturing Company
+- 2021 ~ 2023 : Systems Engineer at medium-sized Iron Manufacturing Company
 - 2023 ~ present: Software Engineer at International IT Solutions Company
 
 *(company names withheld by preference)*
