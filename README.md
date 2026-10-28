@@ -45,6 +45,7 @@ You can find me or learn more about me via below links:
 - [stackoverflow](https://stackoverflow.com/users/22606938/hujaakbar)
 - [Hackerrank](https://www.hackerrank.com/profile/hujaakbar)
 - [YouTube](https://www.youtube.com/@hujaakbar/)
+- [GitHub](https://github.com/Hujaakbar/)
 
 ## No Vibe-coding
 
